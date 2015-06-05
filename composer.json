@@ -1,15 +1,11 @@
 {
-    "name": "Ttylet/test_repo",
-    "description": "The SwiftMailer integration for the Yii framework",
-    "support": {
-    },
+    "name": "ttylet/test_repo",
+    "description": "lalala",
     "authors": [
         {
-            "name": "Ttylet",
-            "email": "hudrargarum@list.ru"
+            "name": "Yulia Skripchenko",
+            "email": "skripchenko@studio-tg.ru"
         }
     ],
-    "require": {
-        
-    } 
+    "require": {}
 }
